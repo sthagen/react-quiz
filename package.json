@@ -2,6 +2,7 @@
   "name": "quiz",
   "version": "0.1.0",
   "license": "MIT",
+  "bugs": "https://github.com/sthagen/react-quiz/issues",
   "keywords": [
     "quiz",
     "example"
